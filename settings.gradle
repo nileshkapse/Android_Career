@@ -1,0 +1,2 @@
+rootProject.name='Android Career'
+include ':app'
